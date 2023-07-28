@@ -49,77 +49,13 @@ node index.js
 
 4. Review and modify the generated `README.md` file as needed.
 
-## Example Generated README
-
-Below is an example of a generated README file based on user responses:
-
-```markdown
-# Cool Website
-
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-## Description
-
-My Cool Website is a great project that aims to make the world a better place by providing incredible solutions to everyday problems.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-
-## Installation
-
-To install my Cool Website, follow these steps:
-
-1. Clone the repository.
-2. Run `npm install` to install the dependencies.
-
-## Usage
-
-To use Cool Website, follow these steps:
-
-1. Run `node index.js` in your terminal.
-2. Answer the prompted questions about your website.
-3. Your `README.md` will be automatically generated with the provided information.
-
-## Features
-
-- User-friendly interactive command-line interface.
-- Automatic generation of well-structured README files.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## Tests
-
-To run tests, use the following command:
-
-```bash
-npm test
-```
 
 ## Questions
 
 If you have any questions, feel free to reach out to me via the following channels:
 
-- GitHub: Jocy99
+- GitHub: Jocy99 [https://github.com/Jocy99]
 - Email: jocelynn4355@gmail.com
-```
-
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the application and generated README according to your needs. Happy coding!
+This project is licensed under the MIT License.
